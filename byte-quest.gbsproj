@@ -3,11 +3,11 @@
         "showCollisions": true,
         "showConnections": true,
         "startMapId": "cb5e225f-e996-4ca8-b068-09a12ec18b75",
-        "startX": 10,
-        "startY": 4,
+        "startX": 12,
+        "startY": 13,
         "startDirection": "right",
-        "zoom": 200,
-        "startSceneId": "382961a1-e615-4b92-92a7-f1a791b50b7a",
+        "zoom": 400,
+        "startSceneId": "1b7f9ffd-2bbb-470b-9189-c2ac435d2a55",
         "playerSpriteSheetId": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26"
     },
     "_version": "1.1.0",
@@ -69,6 +69,18 @@
         {
             "id": "11",
             "name": "[GraphQL] Rock 3 OK"
+        },
+        {
+            "id": "16",
+            "name": "slack_turn_on"
+        },
+        {
+            "id": "17",
+            "name": "[Office] App deployed"
+        },
+        {
+            "id": "18",
+            "name": "old_move"
         }
     ],
     "backgrounds": [
@@ -80,7 +92,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "babel.png",
-            "_v": 1560185331859
+            "_v": 1560198670325
         },
         {
             "id": "994be2ae-0b8d-48d4-9a4f-98c71015ef59",
@@ -90,7 +102,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "cave.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "b2dbd85d-364b-4985-9961-f388f49b3812",
@@ -100,7 +112,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "graphql1.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "95fb1834-cf7c-4454-aecf-541909a30688",
@@ -110,7 +122,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "graphql2.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "b340b9a2-2865-4e05-91c0-148846a693c8",
@@ -120,7 +132,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "house.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "79749a71-0e8e-433f-82f4-e61279aa55a6",
@@ -130,7 +142,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "library.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "f8b1c7ad-7bb2-44b2-8189-175ae8698f11",
@@ -140,7 +152,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "logo.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "b49ea566-b022-478c-979d-ec3ee255fdc5",
@@ -150,7 +162,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "menu.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "d08a13ee-9375-485b-a0b6-a7088300b902",
@@ -160,7 +172,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "office1.png",
-            "_v": 1560185331859
+            "_v": 1560201915628
         },
         {
             "id": "71e47ba6-14b3-43ce-88c9-4640da9552a5",
@@ -170,7 +182,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "office2.png",
-            "_v": 1560185469027
+            "_v": 1560201864789
         },
         {
             "id": "1b7fa267-d716-40f0-b0d0-f4f966610e07",
@@ -180,7 +192,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "outside.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "47ca02bf-0411-429f-af44-1741c25be726",
@@ -190,7 +202,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "outside_01.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "f40d8c30-e034-4d51-9be4-40714359ff0e",
@@ -200,7 +212,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "outside_02.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "34497687-2e90-4986-87a6-03ac7e076d17",
@@ -210,7 +222,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "qrcode.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "530fee72-2577-45fa-82a0-4300b45462f3",
@@ -220,7 +232,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "react-bridge.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "243b87f7-e674-4f03-ae82-03331462a68c",
@@ -230,7 +242,7 @@
             "imageWidth": 160,
             "imageHeight": 256,
             "filename": "react.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "40fda058-df90-4205-a239-fe77bce4fa79",
@@ -240,7 +252,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "stars.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "b3bf0061-5d48-4397-9777-cd5591565f56",
@@ -250,7 +262,7 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "titlescreen.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "f3102db4-2273-411d-b33f-4d6f65959c60",
@@ -260,7 +272,7 @@
             "imageWidth": 256,
             "imageHeight": 256,
             "filename": "underground.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         },
         {
             "id": "f4d386e6-582c-47a4-8ac0-46dc5348e03b",
@@ -270,7 +282,7 @@
             "imageWidth": 256,
             "imageHeight": 144,
             "filename": "webpack.png",
-            "_v": 1560185331859
+            "_v": 1560198670326
         }
     ],
     "spriteSheets": [
@@ -280,7 +292,7 @@
             "numFrames": 2.875,
             "type": "animated",
             "filename": "carpet.png",
-            "_v": 1560185331862
+            "_v": 1560198670336
         },
         {
             "id": "1e27bb8e-c805-435a-8b87-05b4f50da4f0",
@@ -288,7 +300,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "cat.png",
-            "_v": 1560185331862
+            "_v": 1560198670336
         },
         {
             "id": "f0c3033d-e82a-407d-9fe2-3d5da4f59c09",
@@ -296,7 +308,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "checkbox.png",
-            "_v": 1560185331862
+            "_v": 1560198670336
         },
         {
             "id": "a7ecaf0a-3cb4-4739-9a51-fdb8052469a1",
@@ -304,7 +316,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "desk.png",
-            "_v": 1560185331862
+            "_v": 1560198670336
         },
         {
             "id": "17219846-cda9-4e84-bdfa-c3ff105d42cc",
@@ -312,7 +324,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "dog.png",
-            "_v": 1560185331862
+            "_v": 1560198670336
         },
         {
             "id": "ede130e6-013a-42d1-a786-1aed3fd3cf32",
@@ -320,7 +332,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "duck.png",
-            "_v": 1560185331862
+            "_v": 1560198670336
         },
         {
             "id": "f2610e3c-8ff9-42fa-a9bb-d1591031fa17",
@@ -328,7 +340,7 @@
             "numFrames": 4,
             "type": "animated",
             "filename": "fire.png",
-            "_v": 1560185331862
+            "_v": 1560198670336
         },
         {
             "id": "c993e93a-eeab-4106-8823-62767bf4f8f9",
@@ -336,7 +348,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "gem.png",
-            "_v": 1560185331862
+            "_v": 1560198670336
         },
         {
             "id": "09ad70c6-3ce5-4b97-9e96-466221418a45",
@@ -344,7 +356,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "ice.png",
-            "_v": 1560185331863
+            "_v": 1560198670336
         },
         {
             "id": "c7e804d4-a95e-4fff-a8d0-356b68684e68",
@@ -352,7 +364,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "librairy.png",
-            "_v": 1560185331862
+            "_v": 1560198670336
         },
         {
             "id": "dfa75239-299d-41fe-a6cd-9e9438da1938",
@@ -360,7 +372,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "npc001.png",
-            "_v": 1560185331862
+            "_v": 1560198670336
         },
         {
             "id": "40dcd163-9f72-4861-8131-b01eb9baa000",
@@ -368,7 +380,7 @@
             "numFrames": 3,
             "type": "actor",
             "filename": "npc002.png",
-            "_v": 1560185331863
+            "_v": 1560198670336
         },
         {
             "id": "52ad34df-f245-4b2a-b94c-a82af1002871",
@@ -376,7 +388,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "npc003.png",
-            "_v": 1560185331863
+            "_v": 1560198670336
         },
         {
             "id": "ac1e8ef4-ffe6-47cd-b16f-9af5da77ec26",
@@ -384,7 +396,7 @@
             "numFrames": 6,
             "type": "actor_animated",
             "filename": "player.png",
-            "_v": 1560185331863
+            "_v": 1560198670336
         },
         {
             "id": "a0442b6a-634f-44da-9962-77938e3ed839",
@@ -392,7 +404,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "radio.png",
-            "_v": 1560185331863
+            "_v": 1560198670336
         },
         {
             "id": "3939e8d2-3987-4a22-953e-f1d82134eccf",
@@ -400,7 +412,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "rock.png",
-            "_v": 1560185331863
+            "_v": 1560198670336
         },
         {
             "id": "16456267-eb53-46a1-b757-ea6bea9914cb",
@@ -408,7 +420,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "save.png",
-            "_v": 1560185331863
+            "_v": 1560198670336
         },
         {
             "id": "000a6dde-cb60-436e-b357-30a529daa139",
@@ -416,7 +428,7 @@
             "numFrames": 2,
             "type": "animated",
             "filename": "savepoint.png",
-            "_v": 1560185331863
+            "_v": 1560198670336
         },
         {
             "id": "21d04684-4a00-4db6-91de-158c8a98c064",
@@ -424,7 +436,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "sensei.png",
-            "_v": 1560186106187
+            "_v": 1560198670336
         },
         {
             "id": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
@@ -432,7 +444,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "signpost.png",
-            "_v": 1560185331863
+            "_v": 1560198670336
         },
         {
             "id": "e9e61bf7-88fd-491d-ae01-4b7f76909108",
@@ -440,7 +452,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "torch.png",
-            "_v": 1560185331863
+            "_v": 1560198670336
         },
         {
             "id": "98978678-67af-401b-99f8-e23a6fdbf413",
@@ -448,7 +460,7 @@
             "numFrames": 1,
             "type": "static",
             "filename": "trigger.png",
-            "_v": 1560185331863
+            "_v": 1560198670336
         }
     ],
     "scenes": [
@@ -899,6 +911,270 @@
             "height": 18,
             "actors": [
                 {
+                    "id": "dde93006-8485-400d-85bd-46039d0a7fd9",
+                    "spriteSheetId": "98978678-67af-401b-99f8-e23a6fdbf413",
+                    "x": 13,
+                    "y": 1,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "67879355-646c-4c89-9a79-ff4673c73e90",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "C'est le dinausore\nde Chrome ?"
+                            }
+                        },
+                        {
+                            "id": "8c020265-b786-48f4-9a49-e13ca3e6379e",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "9f16c580-4139-4b99-8dd8-26a3f9bb539e",
+                    "spriteSheetId": "98978678-67af-401b-99f8-e23a6fdbf413",
+                    "x": 17,
+                    "y": 15,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "3c03f795-ac60-4145-91c7-5f1e8b32ed51",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Cette station est\néteinte"
+                            }
+                        },
+                        {
+                            "id": "876dea2d-c66b-481a-bb04-94fde23729bc",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "4962934b-029f-496f-88e0-deb1f87e6b2c",
+                    "spriteSheetId": "98978678-67af-401b-99f8-e23a6fdbf413",
+                    "x": 13,
+                    "y": 9,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "27f1da8e-da1a-4f12-8d0d-6477fa962c40",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Beurk, cet écran\nest bien sale"
+                            }
+                        },
+                        {
+                            "id": "8c020265-b786-48f4-9a49-e13ca3e6379e",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "3358ead7-3529-4b5c-867c-c4113ddd7ab7",
+                    "spriteSheetId": "98978678-67af-401b-99f8-e23a6fdbf413",
+                    "x": 17,
+                    "y": 9,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "58334995-3bb3-42e5-90e5-4a941d38f181",
+                            "command": "EVENT_IF_FALSE",
+                            "args": {
+                                "variable": "0",
+                                "__collapse": false
+                            },
+                            "true": [
+                                {
+                                    "id": "632bc863-3c21-4b3b-b520-beedbe870e46",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "Il me faut lire la\ndocumentation pour\ndéployer l'app"
+                                    }
+                                },
+                                {
+                                    "id": "b1181a21-7465-4e31-b7e0-b83a758cc227",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "4cc91b5e-40de-48ea-a297-df67d9fb50f0",
+                                    "command": "EVENT_TEXT",
+                                    "args": {
+                                        "text": "C'est parti,\ndéployons cette\napp !"
+                                    }
+                                },
+                                {
+                                    "id": "457b33a4-db7f-4dc0-b6c2-b871a611334e",
+                                    "command": "EVENT_CHOICE",
+                                    "args": {
+                                        "variable": "17",
+                                        "trueText": "Yarn deploy",
+                                        "falseText": "Quitter"
+                                    }
+                                },
+                                {
+                                    "id": "7e7633d5-0c1c-4c2a-8e34-15cffa23ce1e",
+                                    "command": "EVENT_IF_TRUE",
+                                    "args": {
+                                        "variable": "17"
+                                    },
+                                    "true": [
+                                        {
+                                            "id": "b416464f-12d3-4ec7-a465-a1bb5b9a98fb",
+                                            "command": "EVENT_CAMERA_SHAKE",
+                                            "args": {
+                                                "time": 3
+                                            }
+                                        },
+                                        {
+                                            "id": "99d038ad-ee5c-42bb-86eb-d6823fa5cb16",
+                                            "command": "EVENT_TEXT",
+                                            "args": {
+                                                "text": [
+                                                    "Mais ?!",
+                                                    "Que se passe-t-il\n?",
+                                                    "Le\ndéploiement est\ncorrompu !"
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "id": "478ac019-73b0-4f43-9b6f-d00f9d20c6fd",
+                                            "command": "EVENT_CAMERA_SHAKE",
+                                            "args": {
+                                                "time": 2
+                                            }
+                                        },
+                                        {
+                                            "id": "ee75d41b-71d6-430a-ba54-4cee1d167253",
+                                            "command": "EVENT_SWITCH_SCENE",
+                                            "args": {
+                                                "sceneId": "9d71ddc0-9aa6-4f64-bec5-852af0a17284",
+                                                "x": 17,
+                                                "y": 11,
+                                                "direction": "up",
+                                                "fadeSpeed": "1"
+                                            }
+                                        },
+                                        {
+                                            "id": "be2080a5-51ed-4578-bb41-54415ca941e1",
+                                            "command": "EVENT_END"
+                                        }
+                                    ],
+                                    "false": [
+                                        {
+                                            "id": "dc9c7460-5514-4ec3-82b0-933bd8ae3999",
+                                            "command": "EVENT_END"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "85382be6-2a0f-4f0f-9160-d74b06b8fe46",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "7cc30a55-f99b-41ea-86bb-148a22a811ac",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "b942445e-9fb9-4254-a075-34cd1753d8b9",
+                    "spriteSheetId": "98978678-67af-401b-99f8-e23a6fdbf413",
+                    "x": 1,
+                    "y": 4,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "ed820a59-fb92-4159-885f-1a0f7b6421af",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Super, un livre\nsur JQuery"
+                            }
+                        },
+                        {
+                            "id": "8c020265-b786-48f4-9a49-e13ca3e6379e",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "b8e449a3-79a7-46b9-b248-0b9c2936d90c",
+                    "spriteSheetId": "98978678-67af-401b-99f8-e23a6fdbf413",
+                    "x": 10,
+                    "y": 17,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "a9f57867-1a1f-4571-821e-2ccc191d3f7a",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": "Un café chaud ça\nva me faire du\nbien"
+                            }
+                        },
+                        {
+                            "id": "b21a1949-7d74-408d-9067-e2059fc176e4",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
+                    "id": "524fd4ed-b974-4ec6-9c52-8ff32ef3adc4",
+                    "spriteSheetId": "98978678-67af-401b-99f8-e23a6fdbf413",
+                    "x": 2,
+                    "y": 16,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "5323348a-86e8-4abf-96f2-cdaecd8f7b6d",
+                            "command": "EVENT_TEXT",
+                            "args": {
+                                "text": [
+                                    "Mmmh…\nÇa ressemble à la\ndocumentation de",
+                                    "déploiement.\nVoyons voir...",
+                                    "yarn deploy !\nC'est ça !"
+                                ]
+                            }
+                        },
+                        {
+                            "id": "ad7d2432-27bd-4a66-bdc5-6f4f64e49084",
+                            "command": "EVENT_SET_VALUE",
+                            "args": {
+                                "variable": "0",
+                                "value": 1
+                            }
+                        },
+                        {
+                            "id": "0048f4d1-acc5-4c46-878f-bb11ed74d886",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
                     "id": "b597c712-adc9-465c-bfd8-fb6383450e57",
                     "spriteSheetId": "98978678-67af-401b-99f8-e23a6fdbf413",
                     "x": 10,
@@ -909,138 +1185,62 @@
                     "animSpeed": "3",
                     "script": [
                         {
-                            "id": "16873a92-f608-410b-bba5-ca8608810b7c",
-                            "command": "EVENT_IF_FALSE",
+                            "id": "823017e0-f4a4-4596-9a0d-0923083fdb38",
+                            "command": "EVENT_TEXT",
                             "args": {
-                                "variable": "0",
-                                "__collapse": false
-                            },
-                            "true": [
-                                {
-                                    "id": "b9a02b39-617b-4df8-aeee-10c5f1a24adc",
-                                    "command": "EVENT_TEXT",
-                                    "args": {
-                                        "text": "Il manque la\ndocumentation pour\ndéployer."
-                                    }
-                                },
-                                {
-                                    "id": "9513f824-7ddc-4b30-b936-56bbdb3520f0",
-                                    "command": "EVENT_END"
-                                }
-                            ],
-                            "false": [
-                                {
-                                    "id": "ef7f8769-da89-4678-86b0-1ed03914c26e",
-                                    "command": "EVENT_CAMERA_SHAKE",
-                                    "args": {
-                                        "time": 0.5
-                                    }
-                                },
-                                {
-                                    "id": "67497063-47dd-402c-a8f5-c43df3c517ad",
-                                    "command": "EVENT_TEXT",
-                                    "args": {
-                                        "text": "Non, non ! Le\ndéploiement est\ncorrompu !"
-                                    }
-                                },
-                                {
-                                    "id": "df301639-d820-486c-bd04-059d0d1847bc",
-                                    "command": "EVENT_SWITCH_SCENE",
-                                    "args": {
-                                        "sceneId": "9d71ddc0-9aa6-4f64-bec5-852af0a17284",
-                                        "x": 9,
-                                        "y": 5,
-                                        "direction": "",
-                                        "fadeSpeed": "1"
-                                    }
-                                },
-                                {
-                                    "id": "7cbd7479-f2c2-4c8b-8710-f07b54386e29",
-                                    "command": "EVENT_END"
-                                }
-                            ]
+                                "text": [
+                                    "Tiens, tiens la\nsession est\nouverte",
+                                    "Je peux laisser un\nmessage Slack..."
+                                ]
+                            }
                         },
                         {
-                            "id": "d51b3319-60b4-4a24-ac09-79358fda37f2",
+                            "id": "64ae8c6e-3091-4727-bc07-6873541522f9",
+                            "command": "EVENT_CHOICE",
+                            "args": {
+                                "variable": "16",
+                                "trueText": "Écrire un message",
+                                "falseText": "Ne rien faire"
+                            }
+                        },
+                        {
+                            "id": "8c4f1d36-c4cc-4d1d-8fac-9e65473a82da",
                             "command": "EVENT_END"
                         }
                     ]
-                },
-                {
-                    "id": "d1da1362-1d51-4db6-98b4-3797996b3aa1",
-                    "spriteSheetId": "30b8266a-0533-4f90-bd33-e97dc1d498ea",
-                    "x": 2,
-                    "y": 4,
-                    "movementType": "static",
-                    "direction": "down",
-                    "moveSpeed": "1",
-                    "animSpeed": "3",
-                    "script": [
-                        {
-                            "id": "c36c7044-6bdf-44de-8d8b-48bcc0d9b106",
-                            "command": "EVENT_TEXT",
-                            "args": {
-                                "text": "Mmmh…\nÇa ressemble à de\nla documentation"
-                            }
-                        },
-                        {
-                            "id": "04c9a817-2d32-424b-9965-569dc33558d3",
-                            "command": "EVENT_SET_VALUE",
-                            "args": {
-                                "variable": "0",
-                                "value": 1
-                            }
-                        },
-                        {
-                            "id": "a9ce6931-7ab7-4412-ac06-0e203ccbd4ed",
-                            "command": "EVENT_END"
-                        }
-                    ],
-                    "name": "Documentation"
                 }
             ],
-            "triggers": [
-                {
-                    "x": 9,
-                    "y": 16,
-                    "width": 2,
-                    "height": 1,
-                    "trigger": "walk",
-                    "script": [
-                        {
-                            "id": "f985ad64-ad48-4792-817b-2d57ae6956ff",
-                            "command": "EVENT_SWITCH_SCENE",
-                            "args": {
-                                "sceneId": "a0cdb0ca-b1d1-4a24-accd-6b787818b7de",
-                                "x": 9,
-                                "y": 16,
-                                "direction": "up",
-                                "fadeSpeed": "1"
-                            }
-                        },
-                        {
-                            "id": "f49f1e60-9513-4486-9d3b-6f86d1baa938",
-                            "command": "EVENT_END"
-                        }
-                    ],
-                    "id": "d8200245-5aa1-4e8b-aa30-1a13bd2a9e1a"
-                }
-            ],
+            "triggers": [],
             "collisions": [
-                0,
-                0,
-                240,
+                255,
+                255,
+                255,
                 255,
                 255,
                 255,
                 15,
-                24,
                 255,
-                128,
-                243,
+                255,
+                240,
+                255,
                 3,
                 24,
-                48,
+                0,
+                128,
+                1,
+                0,
+                24,
+                0,
+                128,
+                1,
+                248,
+                31,
+                128,
+                255,
+                1,
+                16,
+                25,
+                0,
                 128,
                 1,
                 0,
@@ -1049,31 +1249,25 @@
                 128,
                 1,
                 0,
-                24,
-                0,
-                128,
-                121,
-                0,
-                152,
-                7,
+                255,
+                15,
                 240,
-                121,
-                0,
-                158,
-                7,
-                224,
-                1,
-                0,
-                30,
-                0,
-                128,
-                1,
-                0,
+                255,
+                15,
                 248,
                 255,
                 255
             ],
             "script": [
+                {
+                    "id": "790c5766-e7e0-4f05-aaf8-3be33d6bedad",
+                    "command": "EVENT_ACTOR_MOVE_RELATIVE",
+                    "args": {
+                        "actorId": "player",
+                        "x": 0,
+                        "y": 3
+                    }
+                },
                 {
                     "id": "887ca051-9ee2-4342-8d92-ac56b93c0114",
                     "command": "EVENT_TEXT",
@@ -1568,9 +1762,9 @@
                                     "command": "EVENT_SWITCH_SCENE",
                                     "args": {
                                         "sceneId": "1b7f9ffd-2bbb-470b-9189-c2ac435d2a55",
-                                        "x": 15,
-                                        "y": 11,
-                                        "direction": "left",
+                                        "x": 13,
+                                        "y": 3,
+                                        "direction": "down",
                                         "fadeSpeed": "1"
                                     }
                                 },
@@ -2054,6 +2248,54 @@
             "height": 18,
             "actors": [
                 {
+                    "id": "6f0dd2b0-d5d7-4987-8ffc-6899121cc981",
+                    "spriteSheetId": "98978678-67af-401b-99f8-e23a6fdbf413",
+                    "x": 9,
+                    "y": 9,
+                    "movementType": "static",
+                    "direction": "down",
+                    "moveSpeed": "1",
+                    "animSpeed": "3",
+                    "script": [
+                        {
+                            "id": "af02b572-f005-495d-9a4c-6521b277a6d2",
+                            "command": "EVENT_IF_TRUE",
+                            "args": {
+                                "variable": "18",
+                                "__collapse": false
+                            },
+                            "true": [
+                                {
+                                    "id": "e2321a93-837d-4bf0-be14-8d8cce9f4e8e",
+                                    "command": "EVENT_SWITCH_SCENE",
+                                    "args": {
+                                        "sceneId": "49742d04-d5b2-4a06-a7f9-c8f6dfcf28da",
+                                        "x": 15,
+                                        "y": 5,
+                                        "direction": "down",
+                                        "fadeSpeed": "2",
+                                        "__collapse": true
+                                    }
+                                },
+                                {
+                                    "id": "d24f8323-8dc2-4a42-b63b-6e5a7c240551",
+                                    "command": "EVENT_END"
+                                }
+                            ],
+                            "false": [
+                                {
+                                    "id": "fe9783ff-d028-4e80-8a98-111d63ec38f8",
+                                    "command": "EVENT_END"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "8e057f31-d325-4365-9873-5b3410069be5",
+                            "command": "EVENT_END"
+                        }
+                    ]
+                },
+                {
                     "id": "d00f8f9c-0ed2-403f-94d9-44cac75fab4e",
                     "spriteSheetId": "21d04684-4a00-4db6-91de-158c8a98c064",
                     "x": 9,
@@ -2069,10 +2311,11 @@
                             "args": {
                                 "text": [
                                     "Ton déploiement\ns'est mal passé.\nTu as été happé",
-                                    "par le\nnode_module. Pour\nfinir ton",
+                                    "par le\nnode_module.Pour\nfinir ton",
                                     "déploiement tu\ndois trouver le\n",
-                                    "Premier Octet\noriginel. ",
-                                    "Trouve les\ngems dans les\npackages !",
+                                    "Premier Octet\noriginel. C'est\nl'octet qui a",
+                                    "faconné les\nInternets.",
+                                    "Trouve les\nrubis dans les\npackages !",
                                     "Bonne chance !"
                                 ]
                             }
@@ -2087,21 +2330,18 @@
                             }
                         },
                         {
-                            "id": "97306f51-43d5-463c-8eee-a4c7ffde38c3",
-                            "command": "EVENT_SWITCH_SCENE",
+                            "id": "f747bce7-95cf-4fee-bfb9-b08d08a09c7f",
+                            "command": "EVENT_SET_TRUE",
                             "args": {
-                                "sceneId": "49742d04-d5b2-4a06-a7f9-c8f6dfcf28da",
-                                "x": 15,
-                                "y": 5,
-                                "direction": "down",
-                                "fadeSpeed": "2"
+                                "variable": "18"
                             }
                         },
                         {
                             "id": "a9ce6931-7ab7-4412-ac06-0e203ccbd4ed",
                             "command": "EVENT_END"
                         }
-                    ]
+                    ],
+                    "name": "oldman"
                 }
             ],
             "triggers": [],
@@ -2127,13 +2367,13 @@
                 0,
                 128,
                 1,
-                0,
-                24,
-                0,
                 128,
+                31,
+                0,
+                248,
                 1,
                 0,
-                24,
+                25,
                 0,
                 128,
                 1,
@@ -2153,6 +2393,13 @@
                 255
             ],
             "script": [
+                {
+                    "id": "b6ea5a4e-d0ae-4797-85d5-95856f3350fa",
+                    "command": "EVENT_TEXT",
+                    "args": {
+                        "text": "Où sont passés les\nbureaux ? Qui\nest cet homme ?!"
+                    }
+                },
                 {
                     "id": "d5a9cbaa-36b4-4a6d-af24-bf820e7d31bc",
                     "command": "EVENT_END"
@@ -5012,7 +5259,7 @@
             "id": "f50428ab-a084-4591-9bba-2ba10fe7b1c6",
             "name": "template",
             "filename": "template.mod",
-            "_v": 1560185331864
+            "_v": 1560198670337
         }
     ]
 }
